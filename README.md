@@ -6,3 +6,4 @@ Welcome to the Design Tech High School AHIMSA Guidebook! This is a compilation o
 * [The Two Year Plan](twoyearplan.html)
 * [Goals and Values](goalsandvalues.html)
 * [Mentor and Core Team](mentorandcoreteam.html)
+* [How to Choose Staff Members for your Trip](staffchoice.html)
