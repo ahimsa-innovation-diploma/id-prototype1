@@ -34,6 +34,8 @@ group members. So in a nutshell teacher mentors are there to help encourage core
 members to lead confidently while also facilitating, making sure everything is on
 track and organized.
 
+> See also: [Choosing a Staff Member for your Trip](staffchoice.html)
+
 ## What is a Core Member?
 A core member is someone (most likely a Freshman) who leads a travel
 group. They should be the ones who take responsibility for their group or any
