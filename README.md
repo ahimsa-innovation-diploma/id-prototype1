@@ -15,6 +15,6 @@ Welcome to the Design Tech High School AHIMSA Guidebook! This is a compilation o
 * [Picking a Reliable Organization](organization.html)
 * [Fundraising](fundraising.html) - **Not Done, almost completely new from the old SEVA Guidebook**
 * [Group Meetings](meetings.html)
-* [Pre-departure Curriculum](curriculum.html) - not done
+* [Pre-departure Curriculum](curriculum.html)
 * [The Importance of Passion](passion.html) - not done
 * [FAQs](faq.html) - not done
