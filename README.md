@@ -16,5 +16,5 @@ Welcome to the Design Tech High School AHIMSA Guidebook! This is a compilation o
 * [Fundraising](fundraising.html) - **Not Done, almost completely new from the old SEVA Guidebook**
 * [Group Meetings](meetings.html)
 * [Pre-departure Curriculum](curriculum.html)
-* [The Importance of Passion](passion.html) - not done
+* [The Importance of Passion](passion.html)
 * [FAQs](faq.html) - not done
