@@ -1,4 +1,4 @@
-## Picking a Reliable Organization
+# Picking a Reliable Organization
 There are a lot of things to consider when choosing an organization to work
 with. The organizations we have partnered with, listed down below, are not only
 flexible in helping you create itineraries focused around your UN Sustainability Goal
@@ -61,6 +61,8 @@ empowering the community to work towards a common goal. Be sure to research:
 You want to be able to communicate effectively with your organization to
 ensure that logistics are being figured out and you’re both on the same page. When
 first communicating with organizations, be sure to take down emails and phone
+
+
 numbers and keep them in one place for easy access. There are going to be times
 when you don’t speak with an organization rep for weeks or months, or times that
 you need to go on an emergency call with them, so having any means of contact
