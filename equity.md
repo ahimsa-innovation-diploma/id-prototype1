@@ -47,7 +47,9 @@ Reduced Lunch data and personal student need. It's split up into two tier levels
 - Level 1: getting started support: $200-350 (need some time until student gets
 a job; does have accessibility to resources)
 - Level 2: support based on family income: FRL; little to no access to resources.
+
 Aid ranges from $400-$1500 based on urgency of need.
+
 We will also put on a fundraiser in late May with the goal to raise aid for students.
 The money that we raise we would contribute to the money d.tech would be
 allocating to help aid the program. Hopefully, it becomes a AHIMSA tradition and helps
