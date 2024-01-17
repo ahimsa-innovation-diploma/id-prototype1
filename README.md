@@ -10,7 +10,7 @@ Welcome to the Design Tech High School AHIMSA Guidebook! This is a compilation o
 * [Motivation](motivation.html)
 * [Equity](equity.html)
 * [Traveler v.s. Tourist](travelervtourist.html)
-* [Pitching to Administration](adminpitch.html) - **Not Done**
+* [Pitching to Administration](adminpitch.html)
 * [Parent-Student Meetings](parentstudent.html) - **Not Done**
 * [Picking a Reliable Organization](organization.html) - **Not Done**
 * [Fundraising](fundraising.html) - **Not Done, almost completely new from the old SEVA Guidebook**
