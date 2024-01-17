@@ -52,6 +52,7 @@ tourists, etc. This is a great time to look at the Dtech calendar and work with 
 leaders and Dtech staff to figure out potential dates for your trip.
 4. **Building your Core Team & Support from a Mentor**  
 > See the [Mentor & Core Team](mentorandcoreteam.html) section for more details.
+
 You may have started the planning process by yourself or with a few other people.
 Before creating a pitch, it is important to figure out who the core members of your team are. Your trip should have around two to four core members (for innovation
 diploma this may vary).
