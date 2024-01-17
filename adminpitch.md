@@ -4,7 +4,7 @@
 For developing a pitch one of the fundamental features that determine the
 success of the pitch is the mission statement. A mission statement is a short passage
 stating the purpose of your program/trip, the goal of your operation, and the impact
-you want to make. An example of a mission statement is the seva mission statement
+you want to make. An example of a mission statement is the AHIMSA mission statement
 which says that its goal is: “To give students equal opportunities to experience
 transformation by immersing themselves in other cultures through exchange and
 service.” Make sure to keep your mission statement short, sweet, and concise so it
@@ -29,7 +29,7 @@ yourselves, on your peers, on the school, and on the world?
 This is how the pitch will work...
 
 Once you and your core team feel like you have done a sufficient amount of
-research and have a solid mission statement, communicate to the seva that you're
+research and have a solid mission statement, communicate to the AHIMSA that you're
 ready to start working on your pitch. Then we, along with mentors, will guide you in
 the right direction and help create your pitch. Then we will schedule a date to pitch
 your trip to Melissa and usually a few other staff members to get feedback and next
@@ -47,11 +47,11 @@ align with your mission statement and support the impact that you're trying to
 make. Do some research on the service project or program that this
 organization works with, understand what they are doing and why they are
 doing it. Make sure that the service project is sustainable and if you don’t
-know whether it is or not ask one of us from the seva. We want to do our best
-as a seva to practice sustainable tourism and develop a better understanding
+know whether it is or not ask one of us from the AHIMSA. We want to do our best
+as a AHIMSA to practice sustainable tourism and develop a better understanding
 on what that means and how to participate in it.
 2. The second itinerary should be with a new organization that you want to
-partner with for the betterment of the seva and the school. Make sure that you
+partner with for the betterment of the AHIMSA and the school. Make sure that you
 work alongside this company to create the trip that you want to create. Be
 prepared to explain what this organization does and why, how does it practice
 sustainable tourism and why you think a partnership with them would
@@ -65,7 +65,7 @@ native language! Present a fully planned itinerary at your pitch that is 100%
 your group and what you want in a trip. If you think that the trip that you
 planned best supports your mission statement all you have to think about is
 safety and reliability. That can all be worked out, so if this is the route you
-decide to take please come talk to the seva and we are more than happy to
+decide to take please come talk to the AHIMSA and we are more than happy to
 help you solve the problem and figure out a third party to insure safety on
 your trip. Make sure to do this step because even if this isn't the itinerary that
 gets chosen in the end it's so important to know how to do the research and
