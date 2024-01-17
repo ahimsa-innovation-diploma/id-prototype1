@@ -7,7 +7,7 @@ Welcome to the Design Tech High School AHIMSA Guidebook! This is a compilation o
 * [Goals and Values](goalsandvalues.html)
 * [Mentor and Core Team](mentorandcoreteam.html)
 * [How to Choose Staff Members for your Trip](staffchoice.html)
-* [Motivation](motivation.html) - **Not done**
+* [Motivation](motivation.html)
 * [Equity](equity.html) - **Not Done**
 * [Seven Rules for Lottery](lottery.html) - **Not Done**
 * [Traveler v.s. Tourist](travelervtourist.html) - **Not Done**
