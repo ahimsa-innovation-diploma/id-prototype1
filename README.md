@@ -9,7 +9,7 @@ Welcome to the Design Tech High School AHIMSA Guidebook! This is a compilation o
 * [How to Choose Staff Members for your Trip](staffchoice.html)
 * [Motivation](motivation.html)
 * [Equity](equity.html)
-* [Traveler v.s. Tourist](travelervtourist.html) - **Not Done**
+* [Traveler v.s. Tourist](travelervtourist.html)
 * [Pitching to Administration](adminpitch.html) - **Not Done**
 * [Parent-Student Meetings](parentstudent.html) - **Not Done**
 * [Picking a Reliable Organization](organization.html) - **Not Done**
