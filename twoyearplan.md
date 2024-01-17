@@ -51,19 +51,20 @@ go to those particular locations. Think about the weather, safety, peak seasons 
 tourists, etc. This is a great time to look at the Dtech calendar and work with AHIMSA
 leaders and Dtech staff to figure out potential dates for your trip.
 4. **Building your Core Team & Support from a Mentor**  
-See the [Mentor & Core Team](mentorandcoreteam.html) section for more details. You may have started the planning process by yourself or with a few other people.
+> See the [Mentor & Core Team](mentorandcoreteam.html) section for more details.
+You may have started the planning process by yourself or with a few other people.
 Before creating a pitch, it is important to figure out who the core members of your team are. Your trip should have around two to four core members (for innovation
 diploma this may vary).
 
 ## Year Two
 1. **Fundraising**
 > See [Fundraising](fundraising.html) Section for More Information
-● Plan for Large Fundraiser
-● Delegate jobs amongst your team. (seva core team will give out larger jobs,
+* Plan for Large Fundraiser
+* Delegate jobs amongst your team. (seva core team will give out larger jobs,
 which you can delegate within your group. Figure out how much everyone
 needs to fundraise. Communicate with other trips to figure out what they’re
 working on.
-● Working on Grants and Partnerships (optional) Start reaching out to potential
+* Working on Grants and Partnerships (optional) Start reaching out to potential
 sponsors. Begin writing drafts of grants. Get help from mentors and teacher
 mentors.
 2. **Pre-departure Curriculum**
